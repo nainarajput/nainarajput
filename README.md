@@ -1,10 +1,12 @@
 Hi there, I'm Your Naina 👋
 
-I'm a Your Profession with a passion for Your Interests. I enjoy Your Hobbies in my free time and love to learn about Your Favorite Topics.
+I'm an Developwe with a passion for Coding. I enjoy watching Documentries and Reading Books in my free time and love to learn about Criminal Psychology and Machine.
 
 🔭 Completed projects
 
-    News App - You can look at it on my repos.
+    News App 
+    Meme Sharing App
+    Birthday Wishing App- You can look at it on my repos.
 
 🌱 I'm currently learning
 
