@@ -17,4 +17,4 @@
  
 <h2> Github Stats</h2>  
   
-   ![Naina's github stats](https://github-readme-stats.vercel.app/api?username=nainarajput&show_icons=true&theme=tokyonight)  ![Naina GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nainarajput&theme=tokyonight) width = 32px
+   ![Naina's github stats](https://github-readme-stats.vercel.app/api?username=nainarajput&show_icons=true&theme=tokyonight)  ![Naina GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nainarajput&theme=tokyonight)
